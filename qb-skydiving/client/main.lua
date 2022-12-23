@@ -11,7 +11,6 @@ disableCarMovement = false,
 disableMouse = false,
 disableCombat = true,
 }, {}, {}, {}, function() -- Done 
-print ("naor best dev")
 Core.Functions.Notify(Config.notify, 'success')
 TriggerEvent('qb-skydiving:client:UseParachute')
     DoScreenFadeOut(500)
@@ -62,7 +61,6 @@ disableCarMovement = false,
 disableMouse = false,
 disableCombat = true,
 }, {}, {}, {}, function() -- Done 
-print ("naor best dev")
 Core.Functions.Notify(Config.notify, 'success')
 TriggerEvent('qb-skydiving:client:UseParachute')
     DoScreenFadeOut(500)
