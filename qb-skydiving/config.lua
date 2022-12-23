@@ -4,7 +4,7 @@ Config.menu = 'qb-menu'
 
 Config.core = 'qb-core'
 
-Config.corename = QBCore
+Config.corename = 'QBCore'
 
 Config.target = 'qb-target'
 
