@@ -1,6 +1,6 @@
 # QB-skydiving
 A skydiving script
 
-Preview:https://streamable.com/gkmy6j
+Preview: https://streamable.com/gkmy6j
 
 Enjoy:) 
